@@ -7,7 +7,6 @@
     "require": {
         "php": "^7.2.5",
         "flipbox/lumen-generator": "^7.0",
-        "jenssegers/mongodb": "*",
         "laravel/lumen-framework": "^7.0"
     },
     "require-dev": {
